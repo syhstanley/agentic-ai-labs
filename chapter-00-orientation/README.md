@@ -1,5 +1,7 @@
 # Chapter 00 — Orientation：先看懂整個 Agent 系統
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：把「Agent 很聰明」改寫成可以畫圖、測試和問責的工程描述。
 
 ## 00.1 Agent、chatbot、automation、workflow
@@ -51,4 +53,3 @@ Agent 專案先記錄現況：每月件數、平均處理時間、返工率、�
 - [ ] 能畫出 happy path 和至少五條 failure paths
 - [ ] 能說明為何不是所有流程都應 agentic
 - [ ] 已選定一個貫穿全課程的企業案例
-

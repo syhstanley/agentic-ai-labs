@@ -1,5 +1,7 @@
 # Chapter 02 — LLM Application Foundations
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：把模型當成有機率、會失敗、需要驗證的元件，而不是資料庫或規則引擎。
 
 ## 02.1 Model、token、latency、cost
@@ -40,4 +42,3 @@
 - [ ] 能區分 prompt 問題、資料問題、model 問題與 tool 問題
 - [ ] 不會把模型輸出直接當 SQL、shell、URL 或權限決策
 - [ ] 有明確 timeout、token 與成本上限
-

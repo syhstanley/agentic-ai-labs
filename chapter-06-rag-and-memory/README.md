@@ -1,5 +1,7 @@
 # Chapter 06 — RAG、Enterprise Search 與 Memory
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：建立會引用來源、尊重文件權限、能持續更新且可量測的知識系統。
 
 ## 06.1 Embeddings 與 retrieval
@@ -43,4 +45,3 @@ Memory 必須有寫入規則、provenance、TTL、修改及刪除方式；不要
 - [ ] 無證據時能 abstain，不編造 citation
 - [ ] 權限在 retrieval system enforce，而非 prompt enforce
 - [ ] 有 re-index、deletion、staleness monitoring 與 owner
-

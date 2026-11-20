@@ -1,5 +1,7 @@
 # Chapter 01 — Engineering Foundations
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：能獨立下載 GitHub 專案、理解執行方式、修錯、測試並安全地交付變更。
 
 ## 01.1 Python for agents
@@ -46,4 +48,3 @@
 - [ ] API client 通過 timeout、429、500、invalid JSON、pagination 測試
 - [ ] 能解釋 transaction、idempotency key 與 retry 的關係
 - [ ] Docker container 不以 root 執行且不含 secrets
-

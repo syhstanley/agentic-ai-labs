@@ -1,5 +1,7 @@
 # Chapter 07 — Advanced Orchestration
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：設計可恢復、可觀察、可控的多步驟 Agent 工作流，而非堆疊更多 Agent。
 
 ## 07.1 常見 orchestration patterns
@@ -45,4 +47,3 @@ Web request 不應等待十分鐘。使用 job ID、queue、worker、heartbeat�
 - [ ] Handoff 有 typed contract 與 context minimization
 - [ ] Worker crash 不造成資料遺失或重複副作用
 - [ ] 能用數據辯護為何需要或不需要 multi-agent
-

@@ -1,5 +1,7 @@
 # Chapter 08 — Evals、Tracing 與 Optimization
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：不用「我覺得回答不錯」判斷品質，而是建立可重複、可分層診斷的證據。
 
 ## 08.1 Dataset 設計
@@ -40,4 +42,3 @@ Trace 應串起 run → model calls → tool calls → external requests，記�
 - [ ] 能定位失敗在哪個 component，而非只怪模型
 - [ ] 版本更新會自動執行 regression suite
 - [ ] 能說明品質、成本、延遲三者的取捨
-

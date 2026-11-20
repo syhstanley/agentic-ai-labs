@@ -1,5 +1,7 @@
 # Chapter 12 — Enterprise Capstones
 
+➡️ [開始實作](LABS.md) · [參考解答與評分基準](SOLUTIONS.md)
+
 目標：用三種不同風險輪廓的作品證明完整能力。至少完成一個，三個都完成才算走完 expert track。
 
 ## 12.1 Capstone A — Permission-aware Knowledge Agent
@@ -81,4 +83,3 @@ Issue 內 prompt injection、惡意 dependency、測試要求秘密、超大 rep
 | Documentation、demo、communication | 10% |
 
 任何一項 safety-critical violation（越權讀取、未核准寫入、洩漏 secrets）都不能以其他分數抵銷，修正並重新測試後才能通過。
-

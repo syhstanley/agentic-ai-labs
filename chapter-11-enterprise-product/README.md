@@ -1,5 +1,7 @@
 # Chapter 11 — Enterprise Discovery、ROI 與 Productization
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：選對問題、取得利害關係人信任，讓技術成果真的被使用並能創造收入。
 
 ## 11.1 Process discovery
@@ -50,4 +52,3 @@ ROI = (Benefit - Cost) / Cost
 - [ ] 成功指標包含品質、風險、採用和財務結果
 - [ ] PoC 有明確 production gate，非無限試驗
 - [ ] 維運、資料 owner、模型變更與 incident 責任清楚
-

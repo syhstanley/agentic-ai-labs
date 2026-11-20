@@ -1,5 +1,7 @@
 # Chapter 05 — Model Context Protocol (MCP)
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：能使用、開發及保護 MCP，讓 Agent 以清楚 contract 存取外部工具與資料。
 
 ## 05.1 Architecture
@@ -51,4 +53,3 @@ MCP 是協定，不會自動解決 authentication、authorization、資料品質
 - [ ] Read 與 write tools 分離，write 支援 dry-run、approval、idempotency
 - [ ] Server 在自身邊界驗證身份與授權
 - [ ] Client 能安全處理惡意或格式錯誤的 tool output
-

@@ -1,5 +1,7 @@
 # Chapter 10 — Platform、Open WebUI 與 Production Deployment
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：把 notebook／CLI 原型變成多人可用、可更新、可監控、可回滾的服務。
 
 ## 10.1 Service boundary 與 FastAPI
@@ -42,4 +44,3 @@ Open WebUI 可作為聊天入口、模型／知識庫介面及內部使用者體
 - [ ] 部署可重現，image 與 dependencies 固定版本
 - [ ] 可觀測、備份、恢復、rollback 都實際演練過
 - [ ] Production credentials 不會出現在 developer laptop 或 CI logs
-

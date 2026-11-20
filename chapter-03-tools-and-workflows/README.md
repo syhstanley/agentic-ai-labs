@@ -1,5 +1,7 @@
 # Chapter 03 — Tools、Agent Loop 與 Workflow
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：不依賴框架，親手做出 Agent 如何選工具、執行、觀察結果並結束的核心迴圈。
 
 ## 03.1 Function/tool calling
@@ -40,4 +42,3 @@ Tool schema 是 Agent 與程式的 contract。名稱、描述、參數、錯誤�
 - [ ] 所有 tool arguments 經 schema 與業務規則驗證
 - [ ] 重播相同 request 不產生重複副作用
 - [ ] 高風險工具需要核准且留 audit record
-

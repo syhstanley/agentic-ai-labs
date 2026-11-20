@@ -1,5 +1,7 @@
 # Chapter 04 — AGENTS.md、Skills 與 Plugins
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：把個人提示詞升級成可被團隊發現、執行、測試、版本管理及安裝的工作能力。
 
 ## 04.1 AGENTS.md
@@ -34,4 +36,3 @@ Skill 是 authoring format；Plugin 可包裝 skills、connectors/MCP 與設定�
 - [ ] Skill 的 trigger 和 non-trigger cases 都有測試
 - [ ] 團隊成員能安裝、升級與回滾
 - [ ] 文件不含公司秘密或環境專用 credential
-

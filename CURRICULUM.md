@@ -18,7 +18,7 @@
 
 能選題、估算 ROI、跨部門協作、定義治理並帶領 PoC 到 production。對應 Chapter 11–12。
 
-## 52 Sections
+## 63 Sections
 
 | Chapter | Sections |
 |---|---|
@@ -48,4 +48,3 @@
 - Docker 化部署、CI gate、監控圖表與 rollback 示範
 - 一份包含基準值、節省工時、風險與推廣計畫的企業提案
 - Capstone 現場故障注入：API timeout、重複請求、惡意文件、模型輸出格式錯誤
-

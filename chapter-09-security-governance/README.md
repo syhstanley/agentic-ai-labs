@@ -1,5 +1,7 @@
 # Chapter 09 — Security、Safety 與 Governance
 
+➡️ [開始實作](LABS.md) · [參考解答](SOLUTIONS.md)
+
 目標：把 Agent 視為能代表使用者採取行動的軟體系統，建立多層控制而非依賴「請不要做壞事」的 prompt。
 
 ## 09.1 Threat modeling
@@ -38,4 +40,3 @@ Email、網頁、PDF、ticket、tool output 都是不可信資料，裡面的文
 - [ ] 高風險 action 有 independent enforcement，不依賴模型自律
 - [ ] Logs、traces、eval datasets 不含不必要的敏感資料
 - [ ] 有 kill switch、owner、incident runbook 與定期演練
-
